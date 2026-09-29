@@ -86,12 +86,21 @@ slicers for country, age group, and loyalty tier.
 **Page 2 — Churn & Retention:** churn risk by satisfaction level and by
 recency bucket; a retention priority table of high-CLV, high-churn-risk
 customers.
+
+<img width="590" height="332" alt="image" src="https://github.com/user-attachments/assets/0230ed4d-11e6-49a7-ace7-fc62246afecd" />
+
  
 **Page 3 — CLV & Profitability:** CLV vs. profitability by category, an
 acquisition cost callout, profitability by shopping channel/device, and
 the CLV quintile (Pareto) chart.
+
+<img width="592" height="333" alt="image" src="https://github.com/user-attachments/assets/07cc8a7c-85e3-4f83-a8d7-24accc7ef0ed" />
+
  
 **Page 4 — RFM Validation:** calculated vs. given RFM scores by segment.
+
+<img width="592" height="333" alt="image" src="https://github.com/user-attachments/assets/330cbf22-ec67-406e-8bd7-02f8fcb1b8eb" />
+
  
 ## Tools
  
