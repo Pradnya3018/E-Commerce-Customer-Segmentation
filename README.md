@@ -79,6 +79,9 @@ behind them, rather than assuming the pre-built scores are correct.
 **Page 1 — Overview:** total customers, avg. CLV, avg. churn risk, %
 high-risk customers; CLV by category; churn risk heatmap by loyalty tier;
 slicers for country, age group, and loyalty tier.
+
+<img width="590" height="331" alt="image" src="https://github.com/user-attachments/assets/7f69dc60-cb82-4857-b21c-3563b6db1fc1" />
+
  
 **Page 2 — Churn & Retention:** churn risk by satisfaction level and by
 recency bucket; a retention priority table of high-CLV, high-churn-risk
